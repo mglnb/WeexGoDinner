@@ -1,0 +1,6 @@
+{
+  "AppName":"GoDinner",
+  "AppId":"com.alibaba.weex",
+  "SplashText":"Hello\nWeex",
+  "WeexBundle":"index.js"
+}
